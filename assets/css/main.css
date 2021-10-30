@@ -11355,6 +11355,7 @@ input[type="number"]::-webkit-outer-spin-button {
 
 #additional-skills {
   color: #555;
+  letter-spacing: 1px;
 }
 
 #indent {
